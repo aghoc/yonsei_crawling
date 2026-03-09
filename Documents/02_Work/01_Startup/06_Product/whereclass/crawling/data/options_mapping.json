@@ -1,0 +1,58 @@
+{
+  "dsFaclyCd": [
+    {
+      "engDeptNm": "Chapel",
+      "sysinstDivCd": "H2",
+      "deptNm": "채플",
+      "deptCd": "W0159"
+    },
+    {
+      "engDeptNm": "Understanding Christianity",
+      "sysinstDivCd": "H2",
+      "deptNm": "기독교의이해",
+      "deptCd": "W0160"
+    },
+    {
+      "engDeptNm": "Writing",
+      "sysinstDivCd": "H2",
+      "deptNm": "글쓰기",
+      "deptCd": "W0161"
+    },
+    {
+      "engDeptNm": "English",
+      "sysinstDivCd": "H2",
+      "deptNm": "교양영어",
+      "deptCd": "W0162"
+    },
+    {
+      "engDeptNm": "COMPUTATIONAL THINKING",
+      "sysinstDivCd": "H2",
+      "deptNm": "컴퓨팅사고",
+      "deptCd": "W0178"
+    },
+    {
+      "engDeptNm": "RC",
+      "sysinstDivCd": "H2",
+      "deptNm": "RC교육",
+      "deptCd": "W0179"
+    },
+    {
+      "engDeptNm": "대학학문의세계",
+      "sysinstDivCd": "H2",
+      "deptNm": "대학학문의세계",
+      "deptCd": "W0180"
+    },
+    {
+      "engDeptNm": "경력개발",
+      "sysinstDivCd": "H2",
+      "deptNm": "경력개발",
+      "deptCd": "W0181"
+    },
+    {
+      "engDeptNm": "진로지도",
+      "sysinstDivCd": "H2",
+      "deptNm": "진로지도",
+      "deptCd": "W0182"
+    }
+  ]
+}

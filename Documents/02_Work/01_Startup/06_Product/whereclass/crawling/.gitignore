@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Firebase service account key (민감 정보 — 절대 커밋 금지)
+config/serviceAccountKey.json
+
+# Temp files
+data/_temp_*
+data/_etl_*

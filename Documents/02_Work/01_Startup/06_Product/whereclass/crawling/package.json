@@ -1,0 +1,19 @@
+{
+  "name": "whereclass-crawler",
+  "version": "2.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.5.0",
+    "firebase-admin": "^13.7.0",
+    "qs": "^6.11.0"
+  },
+  "scripts": {
+    "start": "node crawler.js",
+    "phase1": "node crawler.js phase1",
+    "phase2": "node crawler.js phase2",
+    "etl": "node etl.js",
+    "upload": "node upload.js",
+    "pipeline": "node pipeline.js"
+  }
+}

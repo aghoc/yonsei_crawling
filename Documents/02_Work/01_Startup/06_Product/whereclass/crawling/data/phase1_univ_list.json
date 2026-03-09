@@ -1,0 +1,242 @@
+[
+  {
+    "engDeptNm": "Foundation Education(2020~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "교양기초(2020학번~)",
+    "deptCd": "s2090"
+  },
+  {
+    "engDeptNm": "General Education(2020~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "대학교양(2020학번~)",
+    "deptCd": "s2091"
+  },
+  {
+    "engDeptNm": "Common Basic(11~19)",
+    "sysinstDivCd": "H2",
+    "deptNm": "공통기초(11~19학번)",
+    "deptCd": "s2092"
+  },
+  {
+    "engDeptNm": "Requisite General Education(11~19)",
+    "sysinstDivCd": "H2",
+    "deptNm": "필수교양(11~19학번)",
+    "deptCd": "s2093"
+  },
+  {
+    "engDeptNm": "Elective General Education(11~19)",
+    "sysinstDivCd": "H2",
+    "deptNm": "선택교양(11~19학번)",
+    "deptCd": "s2094"
+  },
+  {
+    "engDeptNm": "University College: Basic(~2010)",
+    "sysinstDivCd": "H2",
+    "deptNm": "학부기초(~2010학번)",
+    "deptCd": "s2095"
+  },
+  {
+    "engDeptNm": "University College: Requisite(~2010)",
+    "sysinstDivCd": "H2",
+    "deptNm": "학부필수(~2010학번)",
+    "deptCd": "s2096"
+  },
+  {
+    "engDeptNm": "University College: Elective(~2010)",
+    "sysinstDivCd": "H2",
+    "deptNm": "학부선택(~2010학번)",
+    "deptCd": "s2097"
+  },
+  {
+    "engDeptNm": "College of Humanities and Arts(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "인문예술대학(~2020학번)",
+    "deptCd": "s2105"
+  },
+  {
+    "engDeptNm": "College of Science and Technology(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "과학기술대학(~2020학번)",
+    "deptCd": "s2110"
+  },
+  {
+    "engDeptNm": "College of Government and Business(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "정경대학(~2020학번)",
+    "deptCd": "s2115"
+  },
+  {
+    "engDeptNm": "College of Health Science(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "보건과학대학(~2020학번)",
+    "deptCd": "s2120"
+  },
+  {
+    "engDeptNm": "College of Health Science",
+    "sysinstDivCd": "H2",
+    "deptNm": "보건과학부(야간)",
+    "deptCd": "s2125"
+  },
+  {
+    "engDeptNm": "EASTASIA International College",
+    "sysinstDivCd": "H2",
+    "deptNm": "동아시아국제학부",
+    "deptCd": "s2130"
+  },
+  {
+    "engDeptNm": "GLOBAL ELITE DIVISION",
+    "sysinstDivCd": "H2",
+    "deptNm": "글로벌엘리트학부",
+    "deptCd": "s2131"
+  },
+  {
+    "engDeptNm": "Department of Dental Hygiene(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "치위생학과(~2020학번)",
+    "deptCd": "s2132"
+  },
+  {
+    "engDeptNm": "College of Humanities and Social Sciences Convergence(2021~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "글로벌창의융합대학(2021학번~)",
+    "deptCd": "s2133"
+  },
+  {
+    "engDeptNm": "College of Science and Technology Convergence(21~25)",
+    "sysinstDivCd": "H2",
+    "deptNm": "과학기술융합대학(21~25학번)",
+    "deptCd": "s2134"
+  },
+  {
+    "engDeptNm": "Educational industrial complex(Hynix)",
+    "sysinstDivCd": "H2",
+    "deptNm": "산업교육학부",
+    "deptCd": "s2135"
+  },
+  {
+    "engDeptNm": "College of Software and Digital Healthcare Convergence(21~25)",
+    "sysinstDivCd": "H2",
+    "deptNm": "소프트웨어디지털헬스케어융합대학(21~25학번)",
+    "deptCd": "s2136"
+  },
+  {
+    "engDeptNm": "Division of Semiconductor System Engineering(2019~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "반도체시스템공학부(2021학년도 편입생~)",
+    "deptCd": "s2137"
+  },
+  {
+    "engDeptNm": "Freshman Course(~2020)",
+    "sysinstDivCd": "H2",
+    "deptNm": "학부개설(1학년)(~2020학번)",
+    "deptCd": "s2138"
+  },
+  {
+    "engDeptNm": "College of RC Convergence(2021~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "RC융합대학(2021학번~)",
+    "deptCd": "s2139"
+  },
+  {
+    "engDeptNm": "College of Science and Technology(2026~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "과학기술대학(2026학번~)",
+    "deptCd": "s2141"
+  },
+  {
+    "engDeptNm": "College of Health Science(2026~)",
+    "sysinstDivCd": "H2",
+    "deptNm": "보건과학대학(2026학번~)",
+    "deptCd": "s2142"
+  },
+  {
+    "engDeptNm": "Joint Major(mirae)",
+    "sysinstDivCd": "H2",
+    "deptNm": "연계전공(미래)",
+    "deptCd": "s2140"
+  },
+  {
+    "engDeptNm": "Online Programs",
+    "sysinstDivCd": "H2",
+    "deptNm": "온라인강의",
+    "deptCd": "s2173"
+  },
+  {
+    "engDeptNm": "English Class",
+    "sysinstDivCd": "H2",
+    "deptNm": "영어진행강의",
+    "deptCd": "s2174"
+  },
+  {
+    "engDeptNm": "Distributive Research(mirae)",
+    "sysinstDivCd": "H2",
+    "deptNm": "산학협력(미래)",
+    "deptCd": "s2178"
+  },
+  {
+    "engDeptNm": "Teacher Training Program(mirae)",
+    "sysinstDivCd": "H2",
+    "deptNm": "교직과정(미래)",
+    "deptCd": "s2179"
+  },
+  {
+    "engDeptNm": "Substitution(Exemption) of Grade",
+    "sysinstDivCd": "H2",
+    "deptNm": "학점대체/이수면제",
+    "deptCd": "s2180"
+  },
+  {
+    "engDeptNm": "Internship in EDU. INST",
+    "sysinstDivCd": "H2",
+    "deptNm": "교육현장학습지원봉사",
+    "deptCd": "s2190"
+  },
+  {
+    "engDeptNm": "Wonju Medical College",
+    "sysinstDivCd": "H2",
+    "deptNm": "원주의과대학(1학년)",
+    "deptCd": "s2195"
+  },
+  {
+    "engDeptNm": "WONJU COLLEGE OF NURSING",
+    "sysinstDivCd": "H2",
+    "deptNm": "원주간호대학(1학년)",
+    "deptCd": "s2197"
+  },
+  {
+    "engDeptNm": "Raw School Reserve Program",
+    "sysinstDivCd": "H2",
+    "deptNm": "법학전문대학원준비과정",
+    "deptCd": "s2199"
+  },
+  {
+    "engDeptNm": "Medical School Reserve Program",
+    "sysinstDivCd": "H2",
+    "deptNm": "의치학전문대학원준비과정",
+    "deptCd": "s2200"
+  },
+  {
+    "engDeptNm": "ROTC",
+    "sysinstDivCd": "H2",
+    "deptNm": "ROTC(미래)",
+    "deptCd": "s2210"
+  },
+  {
+    "engDeptNm": "Supplementary Term(Mirae Campus)",
+    "sysinstDivCd": "H2",
+    "deptNm": "계절학기(미래)",
+    "deptCd": "s2215"
+  },
+  {
+    "engDeptNm": "Supplementary Term(Mirae Campus)",
+    "sysinstDivCd": "H2",
+    "deptNm": "계절학기(미래)",
+    "deptCd": "s2216"
+  },
+  {
+    "engDeptNm": null,
+    "sysinstDivCd": "H2",
+    "deptNm": "미래평생교육원",
+    "deptCd": "s2217"
+  }
+]
